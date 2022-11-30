@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="balon_rebote.cpp">
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Balon.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
